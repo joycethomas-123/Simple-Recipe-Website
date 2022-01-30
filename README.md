@@ -1,2 +1,2 @@
-# Simple-Receipe-Website
-Simple receipe website using  html &amp; css
+# Simple-Recipe-Website
+Simple recipe website using  html &amp; css
